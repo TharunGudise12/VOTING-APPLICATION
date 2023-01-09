@@ -1,0 +1,19 @@
+{
+  "name": "voting-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TharunGudise12/VOTING-APPLICATION"
+  },
+  "author": "sankeerth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TharunGudise12/VOTING-APPLICATION/issues"
+  },
+  "homepage": "https://github.com/TharunGudise12/VOTING-APPLICATION#readme"
+}
