@@ -4,7 +4,7 @@ const app = express();
 
 app.get("/", (req, res) => {
   return res.status(200).json({
-    name: "Voting App",
+    name: "WD 201 Capstone Project",
     success: true,
   });
 });
